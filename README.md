@@ -30,7 +30,3 @@ Las principales tecnologías y librerías utilizadas en este proyecto son:
 ## 📦 Instalación y Uso Local
 
 Para clonar y ejecutar este proyecto en tu entorno local, sigue estos sencillos pasos:
-
-1. **Clona el repositorio:**
-```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
