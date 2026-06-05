@@ -30,3 +30,7 @@ Las principales tecnologías y librerías utilizadas en este proyecto son:
 ## 📦 Instalación y Uso Local
 
 Para clonar y ejecutar este proyecto en tu entorno local, sigue estos sencillos pasos:
+
+1. **Clona el repositorio:**
+```bash
+https://github.com/Lakrofn/Bootstrap.git
